@@ -2,6 +2,10 @@ To use this extension.
 
 Download the code to a new folder and put it somewhere on your computer
 
+To Download, click on the "Code" button on github and select Download Zip
+
+Unzip the code into a new folder
+
 Open a new chrome tab.
 
 go to chrome://extensions/
